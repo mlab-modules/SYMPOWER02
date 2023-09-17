@@ -1,0 +1,19 @@
+description: Symmetric power supply ranging from 1.5 V - 5 V, 250 mA.. It uses circuit
+  LM27762.
+github_branch: SYMPOWER02A
+github_description: Symmetric power supply ranging from 1.5 V - 5 V, 250 mA.. It uses
+  circuit LM27762.
+github_repo: SYMPOWER02
+github_url: https://github.com/mlab-modules/SYMPOWER02
+homepage: false
+images:
+- doc/img/SYMPOWER02A_top_big.jpg
+- doc/img/SYMPOWER02A_Bot_big.jpg
+- doc/img/SYMPOWER02A_top_small.jpg
+- doc/img/Microphonic_effect.png
+- doc/img/Noise_measurement.png
+mark: 50
+status: 0
+tags: []
+title: SYMPOWER02
+updated: '2023-09-17T11:36:45.598307+00:00'

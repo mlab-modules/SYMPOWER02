@@ -1,0 +1,9 @@
+bom: hw/sch_pcb/SYMPOWER02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/SYMPOWER02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/SYMPOWER02
+summary: Symmetric power supply ranging from 1.5 V - 5 V, 250 mA.. It uses circuit
+  LM27762.
